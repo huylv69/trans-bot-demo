@@ -1,4 +1,4 @@
-# bot-chat-vagc
+# ai4life-bot-demo-vagc
 
 This is the source code for a very simple chat example to assignment VAGC
 
