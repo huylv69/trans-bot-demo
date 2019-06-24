@@ -4,4 +4,4 @@ This is the source code for a very simple chat example to assignment VAGC
 
 It has been deployed at:
 
-[![Deploy](https://ai4life.herokuapp.com/)](https://ai4life.herokuapp.com/)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://ai4life.herokuapp.com/)
